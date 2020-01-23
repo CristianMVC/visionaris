@@ -1,0 +1,6 @@
+Sistema de automatizacion recupero de iva
+
+=========================
+Autor: Cristian Burgos
+Email: bonavena2@gmail.com
+==========================

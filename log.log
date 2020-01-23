@@ -1,0 +1,58 @@
+INFO:root:Comienzo...
+INFO:root:2020-01-23
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/oauth/token?client_secret=a44e5d053fe15c6c98fe0c813dfb7614&grant_type=client_credentials&client_id=18ed0830d755e026a1ccc718e88e7cee HTTP/1.1" 200 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/comparas?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaDesde=2019-01-01%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaHasta=2020-01-23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_exposicionFiscal=IVACOM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_Empresa=EMPRE_0241 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/recuperoiva?FechaDesde=2019-01-01&FechaHasta=2020-01-23&PARAMEmpresa=EMPRE_0241 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/saldoproveedores?PARAMWEBREPORT_FechaHasta=2020-01-23&PARAMWEBREPORT_Empresa=EMPRE_0241 HTTP/1.1" 200 None
+INFO:root:=======================
+INFO:root:ok Patagonia
+INFO:root:=======================
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/oauth/token?client_secret=a44e5d053fe15c6c98fe0c813dfb7614&grant_type=client_credentials&client_id=18ed0830d755e026a1ccc718e88e7cee HTTP/1.1" 200 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/comparas?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaDesde=2019-01-01%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaHasta=2020-01-23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_exposicionFiscal=IVACOM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_Empresa=EMPRESA345 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/recuperoiva?FechaDesde=2019-01-01&FechaHasta=2020-01-23&PARAMEmpresa=EMPRESA345 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/saldoproveedores?PARAMWEBREPORT_FechaHasta=2020-01-23&PARAMWEBREPORT_Empresa=EMPRESA345 HTTP/1.1" 200 None
+INFO:root:=======================
+INFO:root:ok Cabresto
+INFO:root:=======================
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/oauth/token?client_secret=a44e5d053fe15c6c98fe0c813dfb7614&grant_type=client_credentials&client_id=18ed0830d755e026a1ccc718e88e7cee HTTP/1.1" 200 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/comparas?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaDesde=2019-01-01%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaHasta=2020-01-23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_exposicionFiscal=IVACOM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_Empresa=EMPRE_0347 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/recuperoiva?FechaDesde=2019-01-01&FechaHasta=2020-01-23&PARAMEmpresa=EMPRE_0347 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/saldoproveedores?PARAMWEBREPORT_FechaHasta=2020-01-23&PARAMWEBREPORT_Empresa=EMPRE_0347 HTTP/1.1" 200 None
+INFO:root:=======================
+INFO:root:ok Azul
+INFO:root:=======================
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/oauth/token?client_secret=a44e5d053fe15c6c98fe0c813dfb7614&grant_type=client_credentials&client_id=18ed0830d755e026a1ccc718e88e7cee HTTP/1.1" 200 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/comparas?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaDesde=2019-01-01%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaHasta=2020-01-23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_exposicionFiscal=IVACOM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_Empresa=IFSSA53 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/recuperoiva?FechaDesde=2019-01-01&FechaHasta=2020-01-23&PARAMEmpresa=IFSSA53 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/saldoproveedores?PARAMWEBREPORT_FechaHasta=2020-01-23&PARAMWEBREPORT_Empresa=IFSSA53 HTTP/1.1" 200 None
+INFO:root:=======================
+INFO:root:ok Sur
+INFO:root:=======================
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/oauth/token?client_secret=a44e5d053fe15c6c98fe0c813dfb7614&grant_type=client_credentials&client_id=18ed0830d755e026a1ccc718e88e7cee HTTP/1.1" 200 36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/comparas?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaDesde=2019-01-01%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_fechaHasta=2020-01-23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_exposicionFiscal=IVACOM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&PARAMWEBREPORT_Empresa=EMPRE01 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/recuperoiva?FechaDesde=2019-01-01&FechaHasta=2020-01-23&PARAMEmpresa=EMPRE01 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 8.teamplace.finneg.com:443
+DEBUG:urllib3.connectionpool:https://8.teamplace.finneg.com:443 "GET /BSA/api/reports/saldoproveedores?PARAMWEBREPORT_FechaHasta=2020-01-23&PARAMWEBREPORT_Empresa=EMPRE01 HTTP/1.1" 200 None
+INFO:root:=======================
+INFO:root:ok South
+INFO:root:=======================
+INFO:root:=======================
